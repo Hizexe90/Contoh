@@ -1,1 +1,1 @@
-# Contoh
+console.log("Hello World");# Contoh
